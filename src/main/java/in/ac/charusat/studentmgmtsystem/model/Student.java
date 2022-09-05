@@ -1,5 +1,7 @@
 package in.ac.charusat.studentmgmtsystem.model;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
